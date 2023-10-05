@@ -1,0 +1,5 @@
+/snap/clion/249/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/249/bin/ninja/linux/x64/ninja -G Ninja -S /home/andrewsuyer/Documents/CodingProjects/C++/School/7.31_WinningTeam -B /home/andrewsuyer/Documents/CodingProjects/C++/School/7.31_WinningTeam/cmake-build-debug
+-- Found CxxTest: /home/andrewsuyer/CxxTest/cxxtest-4.4/  
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/andrewsuyer/Documents/CodingProjects/C++/School/7.31_WinningTeam/cmake-build-debug
