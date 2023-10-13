@@ -5,7 +5,7 @@ The repository contains all the assignments I did during my Computer Science II 
 - Chapter 6: Arrays/Vectors
 - Chapter 7: Objects and Classes
 - Chapter 8: Pointers
-- Chapter 9: Streams
+- Chapter 9: Streams and Exceptions
 - Chatper 10: Inheritance
 - Chapter 11: Recursion
 - Chapter 12: Templates
