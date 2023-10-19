@@ -1,0 +1,3 @@
+/home/andrewsuyer/Documents/CodingProjects/C++/School/ioStringStream/cmake-build-debug/CMakeFiles/ioStringStream.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/ioStringStream/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/ioStringStream/cmake-build-debug/CMakeFiles/rebuild_cache.dir

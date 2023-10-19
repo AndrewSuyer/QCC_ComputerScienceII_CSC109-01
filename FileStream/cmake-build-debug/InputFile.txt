@@ -1,0 +1,3 @@
+60 sixty
+70 seventy
+80 eighty

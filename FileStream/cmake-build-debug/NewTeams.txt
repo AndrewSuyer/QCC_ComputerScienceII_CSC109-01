@@ -1,0 +1,4 @@
+Arkansas Travelers - wins: 5, losses: 11, average: 0.3125
+Vancouver Canadians - wins: 10, losses: 3, average: 0.769231
+Columbus Clippers - wins: 0, losses: 0, average: Norfolk Tides - wins: 6, losses: 0, average: 1
+Rocky Mountain Vibes - wins: 8, losses: 8, average: 0.5
