@@ -1,0 +1,5 @@
+/home/andrewsuyer/Documents/CodingProjects/C++/School/9.22_OverloadInsertionOperator/cmake-build-debug/CMakeFiles/unittest.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/9.22_OverloadInsertionOperator/cmake-build-debug/CMakeFiles/9_22_OverloadInsertionOperator.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/9.22_OverloadInsertionOperator/cmake-build-debug/CMakeFiles/test.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/9.22_OverloadInsertionOperator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/9.22_OverloadInsertionOperator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
