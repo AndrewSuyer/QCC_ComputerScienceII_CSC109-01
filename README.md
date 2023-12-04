@@ -9,4 +9,3 @@ The repository contains all the assignments I did during my Computer Science II 
 - Chatper 10: Inheritance
 - Chapter 11: Recursion
 - Chapter 12: Templates
-- Chapter 13: Advanced topics
