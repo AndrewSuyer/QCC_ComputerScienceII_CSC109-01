@@ -1,0 +1,3 @@
+/home/andrewsuyer/Documents/CodingProjects/C++/School/11.16_AllPermutationsOfNames/cmake-build-debug/CMakeFiles/11_16_AllPermutationsOfNames.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/11.16_AllPermutationsOfNames/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/11.16_AllPermutationsOfNames/cmake-build-debug/CMakeFiles/rebuild_cache.dir
