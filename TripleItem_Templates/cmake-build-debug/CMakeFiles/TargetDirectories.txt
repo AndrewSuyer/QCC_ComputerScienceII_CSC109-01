@@ -1,0 +1,3 @@
+/home/andrewsuyer/Documents/CodingProjects/C++/School/TripleItem_Templates/cmake-build-debug/CMakeFiles/TripleItem_Templates.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/TripleItem_Templates/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrewsuyer/Documents/CodingProjects/C++/School/TripleItem_Templates/cmake-build-debug/CMakeFiles/rebuild_cache.dir
